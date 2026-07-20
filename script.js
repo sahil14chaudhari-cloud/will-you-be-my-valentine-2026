@@ -1,11 +1,11 @@
 const messages = [
     "Are you sure?",
     "Really sure??",
-    "Pookie please...",
+    "Jaanu please...",
     "Don't do this to me :(",
-    "I will buy you sweet treats! 🍫",
+    "I will buy you Chocolates 🍫",
     "I'll give you my hoodie!",
-    "I'll even let you win in games!",
+    "I'll even let you win in kaleshes!",
     "If you say no, I'm gonna be cooked...",
     "I'll just stare at the ceiling...",
     "I will be very very sad...",
@@ -13,7 +13,7 @@ const messages = [
     "My heart is breaking... 💔",
     "Pretty please with a cherry on top? 🍒",
     "Ok fine, I will stop asking...",
-    "Just kidding, SAY YES POOKIE! ❤️"
+    "Just kidding, SAY YES GUGGUU! ❤️"
 ];
 let messageIndex = 0;
 
